@@ -1,2 +1,19 @@
 <!DOCTYPE>
 <html lang="ru">
+<head>
+<title><title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css"
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="#">Студия</a></li>
+<li><a href="#">Клиенты</a></li>
+<li><a href="#">Магазин</a></li>
+<li><a href="#">Контакты</a></li>
+<li><a href="#"><span class="icon-shopping cart"><span>Корзина</a></li>
+</ul>
+</nav>
+</header>

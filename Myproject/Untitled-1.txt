@@ -7,6 +7,7 @@
 </head>
 <body>
 <header>
+<h1 class="visually-hidden"> «Дизайн-студия Нёрдс»</h1>
 <nav>
 <ul>
 <li><a href="#">Студия</a></li>
@@ -17,3 +18,34 @@
 </ul>
 </nav>
 </header>
+<main>
+<section>
+<h2 class="visually-hidden">Услуги</h2>
+<div>
+<img src="http://web-sites150x100">
+</div>
+<h3>ВЕБ-САЙТЫ</h3>
+<p>Мир никогда не будет прежним после того как увидит ваш сайт!</p>!
+<div class="buttons">
+<input type="submit" value="ЗАКАЗАТЬ">
+</div>
+<div>
+<img src="https://apps130x120">
+</div>
+<h3>ПРИЛОЖЕНИЯ</h3>
+<p>Покорите топ-10 приложений в AppStore и Google Play<p>
+<div>
+<input type="submit" value="ЗАКАЗАТЬ">
+</div>
+<div>
+<img src="https://presantation150x150"
+</div>
+<h3>ПРЕЗЕНТАЦИЯ</h3>
+<p>Вы даже не подозреваете, насколько вы изумительны!</p>
+<div>
+<input type="submit" value="ЗАКАЗАТЬ"
+</main>
+<footer>
+<p><b>Давайте дружить, это выгодно!</b></p>
+<p><small>Скидка 10% для друзей из социальных сетей</small></p>!
+</footer>
